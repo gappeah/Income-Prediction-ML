@@ -42,8 +42,8 @@ The primary objective of this project is to explore and analyze the dataset to u
 4. **Model Evaluation**: Assessing the performance of the models using metrics such as accuracy, precision, recall, F1-score, and ROC-AUC.
 
 ### Results
-Obtained a model Score: 0.8473743474255298 without hyperparameter tuning.
-Obtained a random forest score of 86.03% After hyperparameter tuning of the model.
+- Obtained a model Score: 0.8473743474255298 without hyperparameter tuning.
+- Obtained a random forest score of 86.03% After hyperparameter tuning of the model.
 
 ## Acknowledgements
 
