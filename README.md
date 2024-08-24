@@ -10,7 +10,7 @@ The goal of this project is to build a predictive model that can accurately clas
 
 - **Source**: UCI Machine Learning Repository
 - **Reference Dataset URL**: [Adult Income Dataset on Kaggle](https://www.kaggle.com/datasets/wenruliu/adult-income-dataset)
-- **Original Dataset URL**: [Adult Dataset on UCI](https://www.cs.toronto.edu/~delve/data/adult/adultDetail.html)S
+- **Original Dataset URL**: [Adult Dataset on UCI](https://www.cs.toronto.edu/~delve/data/adult/adultDetail.html)
 - **Number of Instances**: 48,842 (32,561 for training, 16,281 for testing)
 - **Number of Attributes**: 14 features + 1 target variable (Income)
 - **Attributes**:
