@@ -45,8 +45,8 @@ The primary objective of this project is to explore and analyze the dataset to u
 4. **Model Evaluation**: Assessing the performance of the models using metrics such as accuracy, precision, recall, F1-score, and ROC-AUC.
 
 ### Results
-- Obtained a model Score: 0.8473743474255298 without hyperparameter tuning.
-- Obtained a random forest score of 86.03% After hyperparameter tuning of the model.
+- Obtained a model Score: of 84.58% without hyperparameter tuning.
+- Obtained a random forest score of 86.40% After hyperparameter tuning of the model.
 
 ## Acknowledgements
 
@@ -63,7 +63,7 @@ This dataset was originally extracted from the 1994 U.S. Census by Barry Becker 
 ## Getting Started
 
 
-    ```bash
+    ```
     git clone https://github.com/gappeah//Income-Prediction-ML.git
     ```
 ## File Structure
