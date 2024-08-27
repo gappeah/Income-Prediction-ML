@@ -2,6 +2,9 @@
 
 This repository contains a machine learning project aimed at predicting whether an individual's annual income exceeds $50,000 based on their demographic and personal information. The project utilizes the Adult Income Dataset, which is widely cited in machine learning literature and is sourced from the UCI Machine Learning Repository.
 
+![output 2](https://github.com/user-attachments/assets/d2961da3-49e4-4e3a-935b-0f765662300a)
+![output](https://github.com/user-attachments/assets/2b7b29b7-d800-48dc-8dd2-54cf573e9ca6)
+
 ## Project Overview
 
 The goal of this project is to build a predictive model that can accurately classify whether an individual's income is greater than $50,000 (`>50K`) or less than or equal to $50,000 (`<=50K`). The dataset includes various attributes that describe an individual's demographics and other relevant features, such as age, education level, occupation, and more.
