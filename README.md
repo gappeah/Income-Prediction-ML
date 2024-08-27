@@ -76,9 +76,8 @@ root
 └── adult.csv
 ```
 
-2. Install the necessary dependencies using `pip install -r requirements.txt`.
-3. Run the Jupyter notebooks provided to explore the dataset, build models, and evaluate their performance.
-4. Experiment with different algorithms and hyperparameters to improve the model's accuracy.
+2. Run the Jupyter notebooks provided to explore the dataset, build models, and evaluate their performance.
+3. Experiment with different algorithms and hyperparameters to improve the model's accuracy.
 
 ## Contributing
 
